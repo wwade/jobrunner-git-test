@@ -3,7 +3,6 @@
   "extends": [
     "config:recommended"
   ],
-  "baseBranches": ["renovate-wip"],
   "splitPythonMarkers": true,
   "packageRules": [
     {
