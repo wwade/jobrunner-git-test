@@ -3,6 +3,7 @@
   "extends": [
     "config:recommended"
   ],
+  "recreateWhen": "always",
   "splitPythonMarkers": true,
   "packageRules": [
     {
