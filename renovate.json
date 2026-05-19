@@ -3,6 +3,7 @@
   "extends": [
     "config:recommended"
   ],
+  "minimumReleaseAge": "10 days",
   "recreateWhen": "always",
   "splitPythonMarkers": true,
   "packageRules": [
